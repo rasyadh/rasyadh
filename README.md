@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Rasyadh Abdul Aziz 👋
+Software Engineer, Mobile Apps iOS at [Bukalapak](https://www.bukalapak.com) ![bl](https://emoji.slack-edge.com/T03990PJU/bukalapak-new/159b88874c40360e.png)
+
+[![Github](https://img.shields.io/github/followers/rasyadh?style=social)](https://github.com/rasyadh)
+[![Website](https://img.shields.io/static/v1?label=%20&message=Website&logo=google-chrome&style=flat&labelColor=grey&logoColor=white)](https://rasyadh.me)
+[![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=telegram&style=flat&color=blue)](https://t.me/rasyadh)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=linkedIn&style=flat&color=blue)](https://www.linkedin.com/in/rasyadh/)
+[![Instagram](https://img.shields.io/static/v1?label=%20&message=Instagram&logo=instagram&style=flat&color=white)](https://www.instagram.com/rasyadh_/)
 
 <!--
 **rasyadh/rasyadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
